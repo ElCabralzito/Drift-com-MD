@@ -3,8 +3,6 @@
 Neste artigo você lerá sobre o Drift, além de:
 + Origem
 + Campeonatos
-+ Carros usados
-+ TESTE DE GIT REMOTO
 -----------
 
 #### O que é drift?
